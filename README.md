@@ -1,26 +1,3 @@
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.
-   OK  No thanks
-1 of 5,697
-Fw: Josh READMEs
-Inbox
-
-Andrew Smith
-Attachments
-2:34 PM (1 hour ago)
-to me
-
-Josh,
-
-See attached for the 2 README files I created for your Blender112 and Youtube clone repos at your GitHub site, hopefully you can find them useful (although please review for accuracy before putting them on your GitHub).
- 2 Attachments
-  •  Scanned by Gmail
-
-
-
 # Blender 3D Renderer - Custom Graphics Engine
 
 A fully functional 3D rendering engine built from scratch in Python for Carnegie Mellon's 15-112 Fundamentals of Programming course. This project implements a complete graphics pipeline including 3D transformations, perspective projection, backface culling, and an interactive UI system for real-time mesh manipulation—all built on top of CMU's basic 2D graphics library.
